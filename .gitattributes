@@ -1,0 +1,6 @@
+# Estes arquivos sao consumidos por um build Linux.
+# CRLF quebra a continuacao de linha (\) do Dockerfile, entao force LF.
+* text eol=lf
+Dockerfile text eol=lf
+*.js text eol=lf
+*.md text eol=lf
